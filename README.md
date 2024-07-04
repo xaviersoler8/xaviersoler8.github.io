@@ -1,12 +1,12 @@
 ## My Research
-While my current work is at the intersection of computational biology, statistics and machine learning, my undergraduate studies were on biochemistry and biomedical sciences.
+Although I am a biochemist, my current work is about statistics, machine learning and computational biology
 
-### Biology
-Together with Mafalda Dias, I lead a research group at the Centre for Genomic Regulation, in Barcelona. Our research focuses on developing generative models of the effect genetic variation, with an emphasis on identifying variation in humans that impact the risk of disease. Our goals are to develop methods which will enable us to effectively utilise whole genome sequencing for diagnosis and preventative care and to maximise the bennefit to human health of sequencing all life on Earth. I am fascinated by how much we can learn about human health from the diversity of life on Earth and the  complementary  information  which  can  be  extracted  from  genetic variation within and across species. While it has long been appreciated that looking at conservation patterns in the genetic sequences from diverse organisms can inform us about disease, my view is that we have barely scratched the surface of what this genetic diversity can teach us about disease. More information about our group can be found [here](https://www.crg.eu/en/programmes-groups/dias-frazer-lab).
+I'm currently a first year PhD student in the [Dias and Frazer lab](https://www.crg.eu/en/programmes-groups/dias-frazer-lab).
 
-### Cosmology and String Theory
-Prior to my research in biology most of my work was on inflation. This is a theory of the very early universe involving a period of accelerated expansion, where the quantum fluctuations of one or more scalar fields gives rise to an initial distribution of gravitational wells. Matter sinking into these wells is thought to be the seeding process for the formation of all structure we observe today (galaxies, stars, people etc.). In my view, the most exciting consequence of this is that we can use the statistics of the distribution of matter in the universe to learn about particle physics at extremely high energies. Possibly much higher than we will ever be able to probe with terrestrial experiments. Indeed, cosmology may be one of our best hopes for testing string theory. As such, I enjoyed sitting between the string theory and cosmology communities, developing methods for computing predictions from string theory embeddings of inflation.
+I am interested in applications of machine learning and probabilistic modelling in biology. My research focuses on applying different modelling approaches to gain insights into health and disease states, with the ultimate aim of contributing to the field of personalised medicine.
+
+Before starting my PhD, I did my Master's internship in the groups of Alfonso Valencia and Biola Javierre. For my Master's thesis, I worked with single-cell epigenomics data with the aim of elucidating the mechanisms of B-cell differentiation. 
 
 ## Publications
 
-Developmental Disruption of Erbb4 in Pet1+ Neurons Impairs Serotonergic Sub-System Connectivity and Memory Formation. <em>Frontiers in cell and developmental biology</em> [here](https://doi.org/10.3389/fcell.2021.770458).
+Developmental Disruption of Erbb4 in Pet1+ Neurons Impairs Serotonergic Sub-System Connectivity and Memory Formation. <em>Frontiers in cell and developmental biology</em> [doi](https://doi.org/10.3389/fcell.2021.770458).
